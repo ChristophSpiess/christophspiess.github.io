@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department for Discrete Mathematics and Geometry</p>
-    <p>FB1 [Algebra Group](https://www.dmg.tuwien.ac.at/fg1/UAMembers.html)</p>
+    <p>FB1 <a href="https://www.dmg.tuwien.ac.at/fg1/UAMembers.html">Algebra Group</a></p>
     <p>TU Wien</p>
     <p>Wiedner Hauptstraße 8-10, 1040 Wien</p>
 ---
