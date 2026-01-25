@@ -13,11 +13,11 @@ nav_order: 2
 
 ## Published Papers
 
-{% bibliography --tag published %}
+{% bibliography --keyword published %}
 
 ## Preprints
 
-{% bibliography --tag preprint %}
+{% bibliography --keyword preprint %}
 
 </div>
 
