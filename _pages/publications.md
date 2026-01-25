@@ -13,7 +13,7 @@ nav_order: 2
 
 <h2>Published Papers</h2>
 
-{{<bibliography keyword="published">}}
+{{<bibliography keyword=published>}}
 
 <h2>Preprints</h2>
 
