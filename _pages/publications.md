@@ -7,14 +7,28 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+## Published Papers
+
+{% bibliography --tag published %}
+
+## Preprints
+
+{% bibliography --tag preprint %}
 
 </div>
+
+## Talks and Conferences
+
+*Add your talks here manually.*
+
+## Awards
+
+*Add your awards here manually.*
+
+## Theses
+
+*Add your thesis info here manually.*
