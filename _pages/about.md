@@ -18,7 +18,7 @@ profile:
 I am a mathematician and PhD candidate at TU Wien, working under the supervision of [Michael Pinsker](https://dmg.tuwien.ac.at/pinsker/).  I am part of the ERC Synergy Grant [POCOCOP](https://pococop.eu/). My research interests lie in universal algebra and mathematical logic, with a particular focus on their applications to Constraint Satisfaction Problems (CSPs) and Promise Constraint Satisfaction Problems (PCSPs).
 
 <div class="publications">
-
+{% include bib_search.liquid %}
 <h2>Published Papers</h2>
 
 {{<bibliography --keyword published>}}
