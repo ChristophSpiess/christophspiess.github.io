@@ -21,13 +21,11 @@ I am a mathematician and PhD candidate at TU Wien, working under the supervision
 {% include bib_search.liquid %}
 <h2>Published Papers</h2>
 
-{{<bibliography --keyword published>}}
+<h2>Published Papers</h2>
+{% bibliography --bibfile published.bib %}
 
 <h2>Preprints</h2>
-
-{% bibliography --keyword published %}
-
-</div>
+{% bibliography --bibfile preprints.bib %}
 
 <h2>Talks and Conferences</h2>
 
