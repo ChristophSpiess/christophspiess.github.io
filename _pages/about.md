@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Main
 permalink: /
 subtitle: Technische Universität Wien
 
