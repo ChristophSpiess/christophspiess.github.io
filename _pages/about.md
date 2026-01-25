@@ -55,7 +55,8 @@ I am a mathematician and PhD candidate at TU Wien, working under the supervision
   <div class="subsection">
     <h3>Preprints</h3>
     <ul class="custom-list">
-      <li><i class="fas fa-check-circle"></i> <strong>Three Fundamental Questions in Modern Infinite-Domain Constraint Satisfaction</strong>, with Michael Pinsker, Jakub Rydval, and Moritz Schöbi,  50th International Symposium on Mathematical Foundations of Computer Science (MFCS 2025), 2025 </li>
+      <li><i class="fas fa-check-circle"></i> <strong>[Three Fundamental Questions in Modern Infinite-Domain Constraint Satisfaction](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2025.83)</strong>, 
+        with Michael Pinsker, Jakub Rydval, and Moritz Schöbi,  50th International Symposium on Mathematical Foundations of Computer Science (MFCS 2025), 2025 </li>
     </ul>
   </div>
 
