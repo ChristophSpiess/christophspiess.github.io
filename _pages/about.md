@@ -19,6 +19,14 @@ I am a mathematician and PhD candidate at TU Wien, working under the supervision
 
 <section id="publications" class="section">
   <h2>Publications</h2>
+  
+   <div class="subsection">
+    <h3>Conference Papers</h3>
+    <ul class="custom-list">
+      <li><i class="fas fa-check-circle"></i> <strong>Title</strong>, Author(s), Conference, Year.</li>
+      <li><i class="fas fa-check-circle"></i> <strong>Title</strong>, Author(s), Conference, Year.</li>
+    </ul>
+  </div>
 
   <div class="subsection">
     <h3>Preprints</h3>
@@ -28,13 +36,7 @@ I am a mathematician and PhD candidate at TU Wien, working under the supervision
     </ul>
   </div>
 
-  <div class="subsection">
-    <h3>Conference Papers</h3>
-    <ul>
-      <li><strong>Title</strong>, Author(s), Conference, Year.</li>
-      <li><strong>Title</strong>, Author(s), Conference, Year.</li>
-    </ul>
-  </div>
+ 
 
   <div class="subsection">
     <h3>Thesis</h3>
