@@ -13,6 +13,7 @@ profile:
     <p>FB1 Algebra Group</p>
     <p>TU Wien</p>
     <p>Wiedner Hauptstraße 8-10, 1040 Wien</p>
+---
 
 I am a mathematician and PhD candidate at TU Wien, working under the supervision of [Michael Pinsker](https://dmg.tuwien.ac.at/pinsker/). My research interests lie in universal algebra and mathematical logic, with a particular focus on their applications to Constraint Satisfaction Problems (CSPs) and Promise Constraint Satisfaction Problems (PCSPs).
 
