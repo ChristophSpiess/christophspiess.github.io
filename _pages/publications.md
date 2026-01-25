@@ -11,24 +11,24 @@ nav_order: 2
 
 <div class="publications">
 
-## Published Papers
+<h2>Published Papers</h2>
 
 {% bibliography --filter "published" %}
 
-## Preprints
+<h2>Preprints</h2>
 
 {% bibliography --keyword preprint %}
 
 </div>
 
-## Talks and Conferences
+<h2>Talks and Conferences</h2>
 
 *Add your talks here manually.*
 
-## Awards
+<h2>Awards</h2>
 
 *Add your awards here manually.*
 
-## Theses
+<h2>Theses</h2>
 
 *Add your thesis info here manually.*
