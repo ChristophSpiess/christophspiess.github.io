@@ -13,7 +13,7 @@ nav_order: 2
 
 <h2>Published Papers</h2>
 
-{% bibliography filter="published" %}
+{% bibliography --filter "published" %}
 
 <h2>Preprints</h2>
 
