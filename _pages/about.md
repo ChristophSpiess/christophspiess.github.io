@@ -20,7 +20,7 @@ I am a mathematician and PhD candidate at TU Wien, working under the supervision
 <div class="publications">
 <h1>Publications</h1>
   
-{% include bib_search.liquid %}
+<!--{% include bib_search.liquid %}-->
 
 <h2>Published Papers</h2>
 {% bibliography --keyword published %}
