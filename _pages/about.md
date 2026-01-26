@@ -24,10 +24,10 @@ I am a mathematician and PhD candidate at TU Wien, working under the supervision
 <!--{% include bib_search.liquid %}-->
 
 <h2>Published Papers</h2>
-{% bibliography --query @*[keywords*=published] %}
+{% bibliography --file published %}
 
 <h2>Preprints</h2>
-{% bibliography -f preprints %}
+{% bibliography --file preprints %}
 
 <h2>Talks and Conferences</h2>
 
