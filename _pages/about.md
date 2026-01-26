@@ -27,7 +27,7 @@ I am a mathematician and PhD candidate at TU Wien, working under the supervision
 {% bibliography --query @*[keywords*=published] %}
 
 <h2>Preprints</h2>
-{% bibliography -q @*[keywords*=preprint] %}
+{% bibliography -f preprints %}
 
 <h2>Talks and Conferences</h2>
 
