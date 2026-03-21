@@ -9,10 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department for Discrete Mathematics and Geometry</p>
-    <p>FB1 <a href="https://www.dmg.tuwien.ac.at/fg1/UAMembers.html">Algebra Group</a></p>
-    <p>TU Wien</p>
-    <p>Wiedner Hauptstraße 8-10, 1040 Wien</p>
+   <div style="font-size: 0.85rem; white-space: pre-wrap;">
+  Department for Discrete Mathematics and Geometry
+  FB1 <a href="https://www.dmg.tuwien.ac.at/fg1/UAMembers.html">Algebra Group</a>
+  TU Wien
+  Wiedner Hauptstraße 8-10, 1040 Wien
+</div>
 ---
 
 I am a mathematician and PhD candidate at TU Wien, working under the supervision of [Michael Pinsker](https://dmg.tuwien.ac.at/pinsker/).  I am part of the ERC Synergy Grant [POCOCOP](https://pococop.eu/).
